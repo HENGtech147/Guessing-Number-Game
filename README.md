@@ -1,2 +1,2 @@
 # Guessing-Number-Game
-First Level of Guessing Number Game
+This is my first ever-built game purely using Python. 
